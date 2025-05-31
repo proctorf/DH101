@@ -4,16 +4,15 @@ THIS IS A LIVING, BREATHING DOCUMENT. It is subject to change. All
 changes will be marked in red and will be announced in class, via email,
 and through Announcements on Canvas.
 
-## Week 1: Course Introduction and Digital Tools
-**January 21-23, 2025**
+## Week 1: Course Introduction and Digital Tools (January 21-23, 2025)
 
-### Tuesday 1/21: Introductions / Google Drive / TimelineJS
+### Tuesday: Introductions / Google Drive / TimelineJS
 
 [Google Drive Installation](https://docs.google.com/document/d/1cQHefWqXcXQq9bbJGlev4kIz2uE7f6xvC0s79sdC3sI/edit?usp=sharing)
 
 ***TimelineJS***
 
-### Thursday 1/23: "Oh, the Humanities?" - What are they? / AI
+### Thursday: "Oh, the Humanities?" - What are they? / AI
 
 **Mission Statement of the English Department at the University of Nebraska - Lincoln**
 
@@ -41,10 +40,9 @@ Then, write another paragraph or two answering these questions -
 
 John Arnold, [History: A Very Short Introduction](https://doi-org.denison.idm.oclc.org/10.1093/actrade/9780192853523.003.0001) (Oxford: Oxford University Press, 2000), 1-14
 
-## Week 2: From Humanities to Digital Humanities
-**January 28-30, 2025**
+## Week 2: From Humanities to Digital Humanities (January 28-30, 2025)
 
-### Tuesday 1/28: Humanities to Digital Humanities / More AI (Prompt Engineering)
+### Tuesday: Humanities to Digital Humanities / More AI (Prompt Engineering)
 
 Anne Burdick, "[From Humanities to Digital Humanities](https://denison.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=513656&site=ehost-live&ebv=EB&ppid=pp_3)," in Digital_Humanities (Cambridge, MA: MIT Press, 2012). 1-26.
 
@@ -52,7 +50,7 @@ Catherine D'Ignazio and Lauren Klein, "Introduction: Why data science needs femi
 
 **Syllabus Quiz**
 
-### Thursday 1/30: Digital Humanities - How did they make that?
+### Thursday: Digital Humanities - How did they make that?
 
 How did they make that?, Miriam Posner, 8/29/13, [http://miriamposner.com/blog/how-did-they-make-that](http://miriamposner.com/blog/how-did-they-make-that)
 
@@ -61,10 +59,9 @@ How did they make that? The video!, Miriam Posner, 4/17/14, [http://miriamposner
 Homework: **Reverse Engineer a DH Project**
 
 [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/), [The Garden of Earthly Delights](https://tuinderlusten-jheronimusbosch.ntr.nl/en), [Six Degrees of Francis Bacon](http://www.sixdegreesoffrancisbacon.com/), [The Green Book Map](http://publicdomain.nypl.org/greenbook-map/)
-## Week 3: Sherlock Holmes and Interactive Narratives
-**February 4-6, 2025**
+## Week 3: Sherlock Holmes and Interactive Narratives (February 4-6, 2025)
 
-### Tuesday 2/4: Sherlock Holmes Stories / Inky Demo / Non-Linear Narrative Examples
+### Tuesday: Sherlock Holmes Stories / Inky Demo / Non-Linear Narrative Examples
 
 ["A Study in Scarlet" Part I](https://drive.google.com/file/d/1QsoQ2V2bGRSb1CUA27zeWVlfvSYrkb8U/view?usp=sharing)
 
@@ -74,7 +71,7 @@ Emily Schultze, "[The Spark](https://emschult.itch.io/the-spark)" - Student Rein
 
 [The Uber Game](https://ig.ft.com/uber-game/), *The Financial Times*, [https://ig.ft.com/uber-game/](https://ig.ft.com/uber-game/) (Accessed Jan 29, 2022)
 
-### Thursday 2/6: AI - How does it work? What are the dangers? / Shorthand
+### Thursday: AI - How does it work? What are the dangers? / Shorthand
 
 Kai-Fu Lee, "How AI can Save our Humanity," TED2108, April 2018
 
@@ -88,16 +85,15 @@ Pranshu Verma, "[These robots were trained on AI. They became racist and sexist]
 
 Nitasha Tiku, Kevin Schaul and Szu Yu Chen, "[This is how AI image generators see the world](https://www.washingtonpost.com/technology/interactive/2023/ai-generated-images-bias-racism-sexism-stereotypes/)" *The Washington Post* (November 1st, 2023)
 
-## Week 4: Holmes as Detective and Data Scientist
-**February 11-13, 2025**
+## Week 4: Holmes as Detective and Data Scientist (February 11-13, 2025)
 
-### Tuesday 2/11: More Sherlock Holmes - how does Sherlock Holmes think like a Data Scientist? A bad Data Scientist? / Inky cont.
+### Tuesday: More Sherlock Holmes - how does Sherlock Holmes think like a Data Scientist? A bad Data Scientist? / Inky cont.
 
 "A Scandal in Bohemia" [http://sherlockholmes.stanford.edu/pdf/holmes_01.pdf](http://sherlockholmes.stanford.edu/pdf/holmes_01.pdf)
 
 "The Adventure of the Blue Carbuncle" [http://ignisart.com/camdenhouse/canon/blue.htm](http://ignisart.com/camdenhouse/canon/blue.htm)
 
-### Thursday 2/13: More Sherlock Holmes - How does/doesn't Sherlock Holmes think like a Humanist? / Storyboarding
+### Thursday: More Sherlock Holmes - How does/doesn't Sherlock Holmes think like a Humanist? / Storyboarding
 
 "The Speckled Band" [http://ignisart.com/camdenhouse/canon/spec.htm](http://ignisart.com/camdenhouse/canon/spec.htm)
 
@@ -107,14 +103,13 @@ Nitasha Tiku, Kevin Schaul and Szu Yu Chen, "[This is how AI image generators se
 
 **(NOT REQUIRED! Extra - Article on the "[Swamp Adder](https://archive.sdnhm.org/history/klauber/speckled.html#fn17)")**
 
-## Week 5: Hands-On Project Work and Text Analysis
-**February 18-20, 2025**
+## Week 5: Hands-On Project Work and Text Analysis (February 18-20, 2025)
 
-### Tuesday 2/18: INKY - Workday
+### Tuesday: INKY - Workday
 
 **IN CLASS WORKDAY on INKY Project (you will work independently and Shizza and I will be able to assist with any issues)**
 
-### Thursday 2/20: Text Analysis - Distant Reading & Case Studies / Voyant and Nocodefunction.com
+### Thursday: Text Analysis - Distant Reading & Case Studies / Voyant and Nocodefunction.com
 
 "Seven ways humanists are using computers to understand texts," Ted Underwood, 2015, [http://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text](http://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text)
 
@@ -123,10 +118,9 @@ Eleanor Stribling, "[A Bossy Sort of Voice: Quantifying gender bias in "Harry Po
 Robert K. Nelson, [Introduction](http://dsl.richmond.edu/dispatch/pages/intro) (and scan the "Topics" page), *Mining the Dispatch* [http://dsl.richmond.edu/dispatch/pages/intro](http://dsl.richmond.edu/dispatch/pages/intro)
 
 **Distant Reading - Voyant and Nocodefunction.com Tutorial**
-## Week 6: AI Analysis and Data Concepts
-**February 25-27, 2025**
+## Week 6: AI Analysis and Data Concepts (February 25-27, 2025)
 
-### Tuesday 2/25: AI - How does it Work? What are its Limitations? / AI on Holmes
+### Tuesday: AI - How does it Work? What are its Limitations? / AI on Holmes
 
 Aatish Bhatia, "[Watch an A.I Learn to Write by Reading Nothing but Jane Austen](https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html?searchResultPosition=1)," *The New York Times*, April 27, 2023 (accessed 9/11/23)
 
@@ -144,7 +138,7 @@ You'll be assigned one of these (compiled by Prof Megan Threlkeld) - (If you wan
 
 - Emily M. Bender and Alex Hanna, "[AI Causes Real Harm. Let's Focus on That over the End-of-Humanity Hype.](https://www.scientificamerican.com/article/we-need-to-focus-on-ais-real-harms-not-imaginary-existential-risks/)" *Scientific American*, August 12, 2023
 
-### Thursday 2/27: What Are Data? Data and Power
+### Thursday: What Are Data? Data and Power
 
 Lisa Gitelman and Virginia Jackson, "Introduction," in ["Raw Data" is an Oxymoron](https://doi-org.denison.idm.oclc.org/10.7551/mitpress/9302.001.0001) (Cambridge, MA: MIT University Press, 2013), 1-14.
 
@@ -154,10 +148,9 @@ Kim Gallon, "[Making the Case for the Black Digital Humanities](https://doi-org.
 
 **Shorthand Tutorial -** [Shorthand](https://support.shorthand.com/en/articles/28-preview-your-story)
 
-## Week 7: Digital Mapping
-**March 4-6, 2025**
+## Week 7: Digital Mapping (March 4-6, 2025)
 
-### Tuesday 3/4: Digital Mapping / StoryMaps
+### Tuesday: Digital Mapping / StoryMaps
 
 **Reading TBD**
 
@@ -183,24 +176,22 @@ THREE OTHERS TO PLAY WITH (BUT NOT FOR ANALYSIS)
 
 **INKY PEER REVIEW**
 
-### Thursday 3/6: Mapping - Carto Tutorial
+### Thursday: Mapping - Carto Tutorial
 
 Due: Holmes Inky Assignment
 
-## Week 8: Mapping and Data Cleaning
-**March 11-13, 2025**
+## Week 8: Mapping and Data Cleaning (March 11-13, 2025)
 
-### Tuesday 3/11: Mapping
+### Tuesday: Mapping
 
-### Thursday 3/13: In Class - Data Cleaning - Open Refine Tutorial
+### Thursday: In Class - Data Cleaning - Open Refine Tutorial
 
 ## Spring Break
 **March 17-21, 2025**
 
-## Week 9: Catch-Up and Data Visualization
-**March 25-27, 2025**
+## Week 9: Catch-Up and Data Visualization (March 25-27, 2025)
 
-### Tuesday 3/25: CATCH UP DAY
+### Tuesday: CATCH UP DAY
 
 **Tableau Installs**
 
@@ -210,7 +201,7 @@ Due: Holmes Inky Assignment
 
 **Mapping Workshop stuff**
 
-### Thursday 3/27: Visualizing Data I / Holmes Mapping
+### Thursday: Visualizing Data I / Holmes Mapping
 
 Nathan Yau, [*Data Points: Visualization That Means Something*](https://drive.google.com/file/d/1HNFFzp9un-9yW8LFRP0lfzoILzL-bX-B/view?usp=sharing) (Indianapolis, IN: John Wiley & Sons, Inc., 2013). *135-42 & 201-239*
 
@@ -218,17 +209,15 @@ Catherine D'Ignazio and Lauren Klein, "CH 6 - The Numbers Don't Speak for Themse
 
 **Data Visualization - Tableau Workshop**
 
-## Week 10: Data Visualization with Tableau
-**April 1-3, 2025**
+## Week 10: Data Visualization with Tableau (April 1-3, 2025)
 
-### Tuesday 4/1: Data Visualization - Tableau Workshop
+### Tuesday: Data Visualization - Tableau Workshop
 
-### Thursday 4/3: Final Project Workday
+### Thursday: Final Project Workday
 
-## Week 11: Network Analysis
-**April 8-10, 2025**
+## Week 11: Network Analysis (April 8-10, 2025)
 
-### Tuesday 4/8: Network Analysis
+### Tuesday: Network Analysis
 
 **Reading TBD**
 
@@ -240,12 +229,11 @@ Mia Ridge, ["Network Visualizations and the 'So what?' Problem,"](http://www.ope
 
 ***Network Navigator* Tutorial**
 
-### Thursday 4/10: Final Project Workday
+### Thursday: Final Project Workday
 
-## Week 12: Final Project Development
-**April 15-17, 2025**
+## Week 12: Final Project Development (April 15-17, 2025)
 
-### Tuesday 4/15: Final Project Workday
+### Tuesday: Final Project Workday
 
 ~~**Visualizing Data II - Humanities Provocations**~~
 
@@ -261,23 +249,21 @@ Mia Ridge, ["Network Visualizations and the 'So what?' Problem,"](http://www.ope
 
 ~~[https://unsilencing-slavery.org/](https://unsilencing-slavery.org/)~~
 
-### Thursday 4/17: Final Project Workday
+### Thursday: Final Project Workday
 
-## Week 13: Final Project Completion
-**April 22-24, 2025**
+## Week 13: Final Project Completion (April 22-24, 2025)
 
-### Tuesday 4/22: Final Project Workday
+### Tuesday: Final Project Workday
 
 **Due - Holmes Shorthand Assignment Due**
 
-### Thursday 4/24: Final Project Workday
+### Thursday: Final Project Workday
 
-## Week 14: Final Project Completion
-**April 29 - May 1, 2025**
+## Week 14: Final Project Completion (April 29 - May 1, 2025)
 
-### Tuesday 4/29: Final Project Workday
+### Tuesday: Final Project Workday
 
-### Thursday 5/1: Final Project Presentations
+### Thursday: Final Project Presentations
 
 Course Evaluations
 
