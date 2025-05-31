@@ -235,19 +235,19 @@ Mia Ridge, ["Network Visualizations and the 'So what?' Problem,"](http://www.ope
 
 ### Tuesday: Final Project Workday
 
-~~**Visualizing Data II - Humanities Provocations**~~
+**Visualizing Data II - Humanities Provocations**
 
-~~Graphic provocations: What do digital humanists want from visualization?, Johanna Drucker, Susan Hockey Lecture in Digital Humanities, University College London, 2016, [https://www.ucl.ac.uk/dh/events/SusanHockeyLecture/2016](https://www.ucl.ac.uk/dh/events/SusanHockeyLecture/2016) (just watch the lecture, don't worry about the Q&A)~~
+Graphic provocations: What do digital humanists want from visualization?, Johanna Drucker, Susan Hockey Lecture in Digital Humanities, University College London, 2016, [https://www.ucl.ac.uk/dh/events/SusanHockeyLecture/2016](https://www.ucl.ac.uk/dh/events/SusanHockeyLecture/2016) (just watch the lecture, don't worry about the Q&A)
 
-~~"Feminist data visualization; Or, the shape of history," Lauren F. Klein, 2017, [http://lklein.com/2017/01/feminist-data-visualization-or-the-shape-of-history](http://lklein.com/2017/01/feminist-data-visualization-or-the-shape-of-history) Unfortunately, many of the image link in this article are broken, but the text is still valuable~~
+"Feminist data visualization; Or, the shape of history," Lauren F. Klein, 2017, [http://lklein.com/2017/01/feminist-data-visualization-or-the-shape-of-history](http://lklein.com/2017/01/feminist-data-visualization-or-the-shape-of-history) Unfortunately, many of the image link in this article are broken, but the text is still valuable
 
-~~Frank Jacobs, "The Minard Map -- "The best statistical graphic ever drawn"~~
+Frank Jacobs, "The Minard Map -- "The best statistical graphic ever drawn"
 
-~~[Vital statistics of Napoleon's deadliest campaign](https://bigthink.com/strange-maps/229-vital-statistics-of-a-deadly-campaign-the-minard-map/)," *BigThink.com [https://bigthink.com/strange-maps/229-vital-statistics-of-a-deadly-campaign-the-minard-map/](https://bigthink.com/strange-maps/229-vital-statistics-of-a-deadly-campaign-the-minard-map/)* (accessed Jan 14, 2024)~~
+[Vital statistics of Napoleon's deadliest campaign](https://bigthink.com/strange-maps/229-vital-statistics-of-a-deadly-campaign-the-minard-map/)," *BigThink.com [https://bigthink.com/strange-maps/229-vital-statistics-of-a-deadly-campaign-the-minard-map/](https://bigthink.com/strange-maps/229-vital-statistics-of-a-deadly-campaign-the-minard-map/)* (accessed Jan 14, 2024)
 
-~~**Assignment -** Reverse Engineer a Digital Humanities Project [http://www.shapeofhistory.net](http://www.shapeofhistory.net/)~~
+**Assignment -** Reverse Engineer a Digital Humanities Project [http://www.shapeofhistory.net](http://www.shapeofhistory.net/)
 
-~~[https://unsilencing-slavery.org/](https://unsilencing-slavery.org/)~~
+[https://unsilencing-slavery.org/](https://unsilencing-slavery.org/)
 
 ### Thursday: Final Project Workday
 
